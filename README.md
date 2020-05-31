@@ -6,7 +6,7 @@ This project is still in development, and hence unfinished. The current configur
 # How to use
 To use this project, setup a .env file with the following variables
 
-AMAZON_MUSIC = https://music.amazon.co.uk/
+AMAZON_MUSIC = https://music.amazon.co.uk/ \n
 CHROME_PATH = C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe
 AM_USER = YOUR AMAZON MUSIC USERNAME HERE
 AM_PASS = YOUR AMAZON MUSIC PASSWORD HERE
